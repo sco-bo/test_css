@@ -1,0 +1,49 @@
+#header {
+    background: #E3E2E2;
+    background-color: #E3E2E2;
+    /* background: -webkit-gradient(linear,left top,left bottom,from(#efefef),to(#ffffff)); */
+    background: -moz-linear-gradient(top,#efefef,#ffffff);
+    border-radius: 23px 23px 0 0;
+    box-shadow: 1px 1px 1px #D4D4D4;
+    background-image: url(http://www.greenermontana.com/wp-content/uploads/2015/06/header_bg-dark.jpg);
+}
+
+body {
+    background-color: red;
+    color: #353535;
+}
+
+#topNav {
+    color: #fff;
+    background-image: none;
+    background: #5a5959;
+    background-color: #fff;
+    /* background: -webkit-gradient(linear,left top,left bottom,from(#585858),to(#6c6c6c)); */
+    background: -moz-linear-gradient(top,#585858,#6c6c6c);
+}
+
+
+#superfish-inner .menu a {
+    display: block;
+    position: relative;
+    font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+}
+
+#superfish-inner .menu a:hover {
+    background-image: none;
+    background-color: #fff;
+    outline: 0;
+    color: green;
+}
+
+
+#mjo_CatHeading {
+    color: #fff;
+    background: #acd373;
+    background-color: #E3E2E2 background:-webkit-gradient(linear,left top,left bottom,from(#fff),to(#f3f3f3));
+    background: -moz-linear-gradient(top,#fff,#f3f3f3);
+    border-bottom: 1px solid #CCCCCC;
+    border-right: 1px solid #CCCCCC;
+    border-left: 1px solid #CCCCCC;
+    padding: 15px;
+}
